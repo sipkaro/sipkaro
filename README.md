@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on molecular dynamics simulations and Earth sciences
 - ⚡ Fun fact: Programing $\times$ Mathematics $\times$ Physics
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,matlab,py,bash,git,latex,linux,md,stackoverflow,vscode,fortran"
     width="50%" 
