@@ -2,7 +2,21 @@
 ### Call me Ben
 
 - 🔭 I’m currently working on molecular dynamics simulations and Earth sciences
-- ⚡ Fun fact: 'Programing' $\times$ Mathematics \times Physics
+- ⚡ Fun fact: 'Programing' $\times$ Mathematics $\times$ Physics
+
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **x-repos/x-repos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
