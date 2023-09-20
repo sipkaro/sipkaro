@@ -6,7 +6,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,matlab,py,bash,git,latex,linux,md,stackoverflow,vscode,fortran" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,matlab,py,bash,git,latex,linux,md,stackoverflow,vscode,fortran"
+    width="10%" 
+    height="10%"/>
   </a>
 </p>
 
