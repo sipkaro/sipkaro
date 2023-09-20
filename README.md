@@ -4,9 +4,12 @@
 - 🔭 I’m currently working on molecular dynamics simulations and Earth sciences
 - ⚡ Fun fact: Programing $\times$ Mathematics $\times$ Physics
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,matlab,py,bash,git,latex,linux,md,stackoverflow,vscode,fortran" />
+  </a>
+</p>
 
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,matlab,py,bash,git,latex,linux,md,stackoverflow,vscode,fortran)](https://skillicons.dev)
 
 
 
