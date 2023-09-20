@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">. Im Ben
-- 🔭 I’m currently working on molecular dynamics simulations and Earth sciences
+- 🔭 I’m currently working on Molecular Dynamics Simulations and Earth Sciences
 - ⚡ Fun fact: `Physics` $\times$ `Programing` $\times$ `Mathematics`
 
 ### Tools
