@@ -1,6 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### Call me Ben
-
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">. Im Ben
 - 🔭 I’m currently working on molecular dynamics simulations and Earth sciences
 - ⚡ Fun fact: Programing $\times$ Mathematics $\times$ Physics
 
