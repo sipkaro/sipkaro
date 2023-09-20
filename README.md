@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on molecular dynamics simulations and Earth sciences
 - ⚡ Fun fact: 'Programing' $\times$ Mathematics $\times$ Physics
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username={x-repos}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=x-repos&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x-repos&layout=compact)
