@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">. Im Ben
 - 🔭 I’m currently working on molecular dynamics simulations and Earth sciences
-- ⚡ Fun fact: `Physics`$\times$`Programing`$\times$`Mathematics`
+- ⚡ Fun fact: `Physics` $\times$ `Programing` $\times$ `Mathematics`
 
 ### Tools
 
