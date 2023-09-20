@@ -3,6 +3,10 @@
 
 - 🔭 I’m currently working on molecular dynamics simulations and Earth sciences
 - ⚡ Fun fact: 'Programing' $\times$ Mathematics $\times$ Physics
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
+
+
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
