@@ -6,7 +6,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,matlab,py,bash,git,latex,linux,md,stackoverflow,vscode,powershell&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,matlab,py,bash,git,latex,linux,md,stackoverflow,vscode,fortran)](https://skillicons.dev)
 
 
 
