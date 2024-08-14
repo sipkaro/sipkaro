@@ -1,6 +1,3 @@
-### Hi there
-- ⚡ Fun fact: `Physics` $\times$ `Computer Sciences` $\times$ `Mathematics`
-
 ### Tools
 
 <p align="left">
