@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <!-- First Line: 6 Icons -->
     <img src="https://skillicons.dev/icons?i=py,julia,matlab,c,cpp,cmake"
